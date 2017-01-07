@@ -5,11 +5,9 @@
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
-  },
-
-"require" : {
-    "facebook/php-sdk-v4" : "~5.0"
   }
+
+
 
 
 }
